@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="219df6da-1c58-48df-87a7-5d97e0581ffa" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LlaMa2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/cogfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/DecoderLayer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/MLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/RMSNorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dataProcessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/SFTtrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/model_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Models/Attention.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34x9F4Bmeaee6eP0WnWbh1X7MOr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Attention.executor": "Run",
+    "Python.SFTtrain.executor": "Run",
+    "Python.cogfig.executor": "Run",
+    "Python.dataDomnload.executor": "Run",
+    "Python.dataProcessing.executor": "Run",
+    "Python.model_sample.executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/gitcode/LlaMa2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="219df6da-1c58-48df-87a7-5d97e0581ffa" name="更改" comment="" />
+      <created>1762144248917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762144248917</updated>
+      <workItem from="1762144252886" duration="1957000" />
+      <workItem from="1762250555716" duration="1132000" />
+      <workItem from="1762308602412" duration="5164000" />
+      <workItem from="1762313845757" duration="1031000" />
+      <workItem from="1762320236607" duration="5794000" />
+      <workItem from="1762398286907" duration="2137000" />
+      <workItem from="1762402733779" duration="12279000" />
+      <workItem from="1762488280509" duration="3223000" />
+      <workItem from="1762500814116" duration="1970000" />
+      <workItem from="1762741842184" duration="6813000" />
+      <workItem from="1762762474034" duration="7416000" />
+      <workItem from="1762774608598" duration="3860000" />
+      <workItem from="1762827015760" duration="6252000" />
+      <workItem from="1762833629155" duration="1474000" />
+      <workItem from="1762847805912" duration="6213000" />
+      <workItem from="1762906817970" duration="10969000" />
+      <workItem from="1762944377229" duration="2068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LlaMa2$dataProcessing.coverage" NAME="dataProcessing 覆盖结果" MODIFIED="1762750561145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/LlaMa2$cogfig.coverage" NAME="cogfig 覆盖结果" MODIFIED="1762748088345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+    <SUITE FILE_PATH="coverage/LlaMa2$model_sample.coverage" NAME="model_sample 覆盖结果" MODIFIED="1762945375844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/LlaMa2$dataDomnload.coverage" NAME="dataDomnload 覆盖结果" MODIFIED="1762438107908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/LlaMa2$train.coverage" NAME="train 覆盖结果" MODIFIED="1762909975557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/LlaMa2$SFTtrain.coverage" NAME="SFTtrain 覆盖结果" MODIFIED="1762912666318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/LlaMa2$Attention.coverage" NAME="Attention 覆盖结果" MODIFIED="1762314011481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+  </component>
+</project>
